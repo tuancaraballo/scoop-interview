@@ -1,0 +1,17 @@
+{
+  "name": "scoop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antuan Caraballo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chance": "^1.0.16",
+    "express": "^4.16.4",
+    "moment": "^2.22.2"
+  }
+}
