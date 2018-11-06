@@ -1,8 +1,11 @@
 Instructions:
+   The following instructions explain how to setup a local server to test the endpoints.
+   All data is stored in memory, thus it isn't persistent.
 
 Prerequisites:
   -  Node 6.11 or beyond (this project was coded in node 6.11.5)
   -  Postman 2
+
 
 1- To start the local server, navigate into the folder and run the following command:
      node index.js  (if running 8.11 or beyond)
@@ -57,3 +60,7 @@ Prerequisites:
 ====
  If you wish to see this file on Github, please visit
         https://github.com/tuancaraballo/scoop-interview
+
+You may also be able to hit the endpoints live against:
+            https://scoop-interview.herokuapp.com/trips/requests
+    (pushed it to heroku, but did not test it)
